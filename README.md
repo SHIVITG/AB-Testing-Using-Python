@@ -1,10 +1,10 @@
-# 🧪 A/B Testing in Python – A Step-by-Step Guide
+# A/B Testing in Python – A Step-by-Step Guide
 
 This repository presents two hands-on notebooks walking through **A/B testing** with real-world-style marketing and web conversion datasets. It is tailored for **data scientists**, **analysts**, and **learners** aiming to master experimentation workflows.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 ├── data/
@@ -17,7 +17,7 @@ This repository presents two hands-on notebooks walking through **A/B testing** 
 
 ---
 
-## ✅ Objectives Covered
+## Objectives Covered
 
 Both notebooks cover:
 
@@ -29,14 +29,14 @@ Both notebooks cover:
 
 ---
 
-## 📊 Datasets Used
+## Datasets Used
 
 - **`ab_data.csv`**: Simulates web page conversions across `control` and `treatment` groups
 - **`campaigns.csv`**: Contains engagement and conversion metrics for different marketing campaign variants
 
 ---
 
-## 📌 Notebooks Overview
+## Notebooks Overview
 
 ### `AB testing A step by step guide in Python.ipynb`
 - Walks through the statistical framework
@@ -50,7 +50,7 @@ Both notebooks cover:
 
 ---
 
-## 💡 Why This Project?
+## Why This Project?
 
 > “A/B Testing is a critical skill expected in interviews and real-world product decisions — yet it's often not taught in depth.”
 
@@ -58,7 +58,7 @@ This repository bridges that gap using hands-on code and clean visualizations.
 
 ---
 
-## 🚀 Tools & Libraries
+## Tools & Libraries
 
 - `pandas`, `numpy`
 - `matplotlib`, `seaborn`
